@@ -1,0 +1,5 @@
+pandas==2.0.3
+numpy==1.24.3
+langchain==0.1.16
+chromadb==0.4.22
+python-dotenv==1.0.0
