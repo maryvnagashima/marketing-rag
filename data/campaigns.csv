@@ -1,0 +1,16 @@
+date,campaign,channel,spend_BRL,impressions,clicks,conversions,revenue_BRL
+2024-11-01,Black Friday Search,Google Ads,15000,350000,28000,1800,78000
+2024-11-01,Black Friday Social,Meta Ads,12000,420000,31000,1450,52000
+2024-11-01,Always On Search,Google Ads,5000,90000,7500,420,23000
+2024-11-02,Black Friday Search,Google Ads,16000,360000,29000,1900,82000
+2024-11-02,Black Friday Social,Meta Ads,12500,410000,30500,1500,54000
+2024-11-02,Influencers Q4,Instagram,8000,250000,12000,380,26000
+2024-11-03,Retargeting Site,Google Ads,6000,70000,6800,520,27000
+2024-11-03,Prospecting Lookalike,Meta Ads,7000,260000,15000,430,21000
+2024-11-03,Email BF,Email,2000,80000,6000,900,35000
+2024-11-04,Black Friday Search,Google Ads,14000,340000,27000,1750,76000
+2024-11-04,Black Friday Social,Meta Ads,11000,390000,29500,1380,50000
+2024-11-04,Always On Social,Meta Ads,4000,130000,9000,260,14000
+2024-11-05,Remarketing Cart,Google Ads,5500,65000,6100,510,26000
+2024-11-05,Marketplace Deals,Shopee Ads,4500,150000,8000,370,19000
+2024-11-05,Brand Awareness,YouTube,3000,500000,7000,120,9000
